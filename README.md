@@ -1,4 +1,4 @@
-## Hi there 👋
+## ## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Joy Chando Roy — a Data Analytica 👨‍💻
 
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
 <!--
