@@ -1,4 +1,7 @@
-[![Data Analytics Essentials]<img width="170" height="170" alt="data-analytics-essentials (2)" src="https://github.com/user-attachments/assets/652c7696-40dd-4675-879e-4c7de860dc67" />
+[![Data Analytics Essentials]
+
+<img width="170" height="170" alt="data-analytics-essentials (2)" src="https://github.com/user-attachments/assets/652c7696-40dd-4675-879e-4c7de860dc67" />
+
 <https://www.credly.com/earner/earned/share/82db5a20-09d2-4b1e-851e-fbb19c13eb41>
 
 # <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" /> Hi  I'm Joy Chando Roy — a Data Analytica 👨‍💻
