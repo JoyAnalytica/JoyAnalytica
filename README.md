@@ -4,7 +4,7 @@
 
 <https://www.credly.com/earner/earned/share/82db5a20-09d2-4b1e-851e-fbb19c13eb41>
 
-# <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" /> Hi  I'm Joy Chando Roy — a Data Analytica 👨‍💻
+# <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" /> Hi  I'm Joy Chandra— a Data Analytica 👨‍💻
 
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
 <!--
