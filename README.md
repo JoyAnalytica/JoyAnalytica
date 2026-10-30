@@ -1,4 +1,4 @@
-
+<img width="170" height="170" alt="data-analytics-essentials (2)" src="https://github.com/user-attachments/assets/652c7696-40dd-4675-879e-4c7de860dc67" />
 
 # <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" /> Hi  I'm Joy Chando Roy — a Data Analytica 👨‍💻
 
@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 
  
-<img width="170" height="170" alt="data-analytics-essentials (2)" src="https://github.com/user-attachments/assets/652c7696-40dd-4675-879e-4c7de860dc67" />
+
