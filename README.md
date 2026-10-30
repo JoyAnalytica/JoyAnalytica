@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Data Analytics Essentials]("C:\Users\user\Downloads\data-analytics-essentials (1).png")]
+ 
