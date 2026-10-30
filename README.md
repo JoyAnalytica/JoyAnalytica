@@ -1,3 +1,5 @@
+<img width="376" height="376" alt="data-analytics-essentials (1)" src="https://github.com/user-attachments/assets/48a9da68-80ba-49e8-8cfb-082e06eaa65d" />
+
 # <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" /> Hi  I'm Joy Chando Roy — a Data Analytica 👨‍💻
 
 <img src="https://raw.githubusercontent.com/AkashRajpurohit/AkashRajpurohit/master/assets/github-snake-dark.svg" />
@@ -16,5 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Data Analytics Essentials]("C:\Users\user\Downloads\data-analytics-essentials (1).png")]
+
+
  
