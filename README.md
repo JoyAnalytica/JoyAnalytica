@@ -2,6 +2,23 @@
 
 <img width="170" height="170" alt="data-analytics-essentials (2)" src="https://github.com/user-attachments/assets/652c7696-40dd-4675-879e-4c7de860dc67" />
 
+---
+### 🏆 My Professional Certifications
+
+Here are the professional certifications I have earned to validate my skills in Data Analytics and Visualisation.
+
+<p align="center">
+  <a href="https://www.credly.com/earner/earned/share/112db5a20-d9d2-4b1e-851e-fbb19c13leb41">
+    <img src="./cisco-certificate.png" width="48%" alt="Cisco Data Analytics Essentials Certificate" />
+  </a>
+  <a href="#">
+    <img src="./tata-certificate.png" width="48%" alt="Tata Data Visualisation Certificate" />
+  </a>
+</p>
+
+* **Cisco Data Analytics Essentials:** Issued October 30, 2026 (Credential ID: `3bbae262-990c-4315-8bf6-f9bea79ab699`)[cite: 3]
+* **Tata Data Visualisation (Forage):** Issued February 17, 2026[cite: 2]
+
 <https://www.credly.com/earner/earned/share/82db5a20-09d2-4b1e-851e-fbb19c13eb41>
 
 # <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" /> Hi  I'm Joy Chandra— a Data Analytica 👨‍💻
