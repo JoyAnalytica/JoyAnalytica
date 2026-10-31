@@ -1,4 +1,3 @@
-                                               
 <h1 align="center">Hi, I'm Joy Chandra 👋</h1>
 <h3 align="center">Aspiring Data Analyst | Dhaka, Bangladesh</h3>
 
@@ -21,7 +20,7 @@
 
 | Certificate | Issuer | Date | Verify |
 |---|---|---|---|
-| Data Analytics Essentials | Cisco Networking Academy | 30 Oct 2026 | [Credly](https://www.credly.com/earner/earned/share/82db5a20-09d2-4b1e-851e-fbb19c13eb41) |
+| Data Analytics Essentials | Cisco Networking Academy | 30 Oct 2026 | [Credly Badge](https://www.credly.com/earner/earned/share/82db5a20-09d2-4b1e-851e-fbb19c13eb41) · [Certificate](https://www.netacad.com/certificates/?issuanceId=3bbae262-990c-4315-8bf6-f9bea79ab699) |
 | Data Visualisation: Empowering Business with Effective Insights | Tata (via Forage) | 17 Feb 2026 | [Verify on Forage](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_698f33bb77f6324da6810fc8_1793333914563_completion_certificate.pdf) |
 
 ## 📊 Featured Projects
@@ -34,7 +33,6 @@
 ## 📫 Contact
 
 Email: roycreatersssdd@gmail.com
-
 
 
  
